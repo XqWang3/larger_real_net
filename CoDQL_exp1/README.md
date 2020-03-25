@@ -1,1 +1,0 @@
-# Co-DQL in simplified TSC simulator
